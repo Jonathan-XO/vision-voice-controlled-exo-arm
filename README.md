@@ -94,4 +94,4 @@ It is an early-stage prototype of a potential assistive exoskeleton system.
 ---
 
 ## Author
-Built by an Electronics and Communication Engineering student exploring AI + Embedded Systems + Robotics.
+Jhonathan.Punnish,Bhargav.
