@@ -1,11 +1,3 @@
-"""
-hand_controller_full.py
-
-Integrated GUI + YOLO + Voice + Motion Queue + Serial motion player.
-
-Author: ChatGPT
-"""
-
 import os
 import json
 import time
